@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Murli Manohar Kumawat 
-- 👀 I’m interested in Python Projects
+- 👀 I’m interested in Python, Web Development Projects
 - 💞️ I’m looking to collaborate on some projects
 - 📫 How to reach me? Here is my e-mail kumawatmmk26@gmail.com 
 
